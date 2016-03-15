@@ -1,0 +1,12 @@
+{
+    "name": "cmsilex/textile",
+    "authors": [
+        {
+            "name": "Leigh Murray",
+            "email": "leighmurray@2wattend.com"
+        }
+    ],
+    "require": {
+        "netcarver/textile": "^3.5"
+    }
+}
